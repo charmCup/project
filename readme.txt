@@ -1,2 +1,2 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
+链接 <!--{APK_URI}-->
+js/图片路径<!--{STATIC_URI}-->
